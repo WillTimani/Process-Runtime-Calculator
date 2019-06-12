@@ -1,0 +1,16 @@
+total 64
+-rw-rw-r-- 1 william william 1094 Jan 28 11:32 Arithmetic
+-rwxr-xr-x 1 william william 9560 Feb  2 14:26 arithmetic.out
+-rw-r--r-- 1 william william 7790 Feb  2 14:26 arithmetic-x86.lis
+-rw-r--r-- 1 william william 1920 Feb  2 14:26 arithmetic-x86.o
+drwxrwxr-x 3 william william 4096 Feb  5 15:33 Assembly Files
+-rw-r--r-- 1 william william 3544 Feb  2 14:26 driver-main.o
+-rw-rw-r-- 1 william william    0 Feb  7 17:37 SQL.txt
+-rwxr-xr-x 1 william william 8776 Feb  7 17:39 time
+-rw-rw-r-- 1 william william  859 Feb  7 17:38 time_pipe.c
+-rw-r--r-- 1 william william    0 Feb  7 17:39 time_pipe_output.txt
+-rw-rw-r-- 1 william william 1072 Feb  7 15:47 time_shm.c
+-rw-r--r-- 1 william william  720 Feb  7 15:56 time_shm_output.txt
+-rw-rw-r-- 1 william william  969 Feb  7 15:56 time_shmt.c
+
+Elapsed time: 0.007230 seconds
